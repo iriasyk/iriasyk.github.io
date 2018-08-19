@@ -1,17 +1,12 @@
 **# Добро пожаловать!**
 =====================
-INSTALLATION
+Загрузка проекта
 ------------
 
-Please make sure the release file is unpacked under a Web-accessible
-directory. You shall see the following files and directories:
+Загрузка проекта была проведена с помощью использывания:
 
-      demos/               demos
-      framework/           framework source files
-      requirements/        requirement checker
-      CHANGELOG            describing changes in every Yii release
-      LICENSE              license of Yii
-      README               this file
-      UPGRADE              upgrading instructions
+      Git               Git-Bash
+      GitHub           Локальный сервер
+
 
 ### <iriasyk.github.io>
