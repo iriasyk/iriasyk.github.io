@@ -12,7 +12,7 @@
 
 Были загружены файлы сайта(моего ТЗ при вступлении) с помощью Git-Bush-а непосредственно на GitHub:
 
-      [iriasyk.github.io](iriasyk.github.io)
+      [iriasyk.github.io](https://iriasyk.github.io/)
       
 Markdown(Пункт 2.2)
 -----------
