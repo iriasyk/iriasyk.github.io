@@ -7,6 +7,9 @@
 
       Git               Git-Bash
       GitHub           Локальный сервер
+Сайт
+------------
 
+Были загружены файлы сайта(моего ТЗ при вступлении) с помощью Git-Bush-а непосредственно на GitHub:
 
-### <iriasyk.github.io>
+      iriasyk.github.io
